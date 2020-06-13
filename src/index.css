@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+Form {
+  margin-top: 30px;
+}
+
+h1 {
+  margin-top: 30px !important;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #18A2B8;
+}
+
+.main {
+  margin: 80px auto auto 300px;
+}
+
+.input {
+  margin: 10px;
+  width: 300px !important;
+}
+
+.submit-btn {
+  margin: 13px;
+}
